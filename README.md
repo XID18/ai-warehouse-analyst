@@ -41,7 +41,7 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/<your-username>/ai-warehouse-analyst.git
+git clone https://github.com/XID18/ai-warehouse-analyst.git
 cd ai-warehouse-analyst
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
