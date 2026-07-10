@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# Секреты — САМОЕ ВАЖНОЕ
+.env
+*.key
+
+# База данных / модели
+*.db
+chroma_db/
+*.joblib
+*.pkl
+
+# Streamlit секреты
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
